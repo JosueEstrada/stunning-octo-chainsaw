@@ -23,6 +23,7 @@ and open the template in the editor.
            
             echo "Esto es el segundo mensaje<br>";
             imprimecadenas();
+            echo "Probando otra cadena";
  
         ?>
     </body>
