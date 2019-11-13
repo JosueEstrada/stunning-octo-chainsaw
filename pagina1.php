@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Página principal.</h1>
         <a href="pagina2.php">Noticias</a>
+        <img src="bruce.jpg" alt="Bruce Lee">
         <?php
         // put your code here
         ?>
